@@ -1,0 +1,5 @@
+name = "jihaadhey-site"
+compatibility_date = "2025-06-02"
+
+[site]
+bucket = "."
